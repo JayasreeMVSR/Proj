@@ -1,9 +1,10 @@
 #include<stdio.h>
-void main()
+int main()
 	
 {
 	printf("Hello World");
 	printf("MVSR");
+	return 0;
 }
 
 
